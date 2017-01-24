@@ -1,0 +1,9 @@
+module.exports = {
+    FB_PAGE_TOKEN: 'EAAFUe7wQUcMBAAF2sIV7ULO19nJc9PyAl0DMTe2iMUdZCpNNcwFSrbRzX9x4PdTUsZA4tAmcb8xfRV2RnZCYcytMWGhs0PEyN7JlAAve8zMb9z264eRt6ozMK9gPTPEjFxjHZAfH5QIzyHewt28IolC4bfRevxqApPZCaVTVmaAZDZD',
+    FB_VERIFY_TOKEN: 'my_mine_hers_him_1',
+    API_AI_CLIENT_ACCESS_TOKEN: 'f00ad22547914c008179d91aa7787713',
+    FB_APP_SECRET: '3b60bacfadff97c241414c50a3c3fd0e',
+    SERVER_URL: "https://frozen-reaches-74708.herokuapp.com/webhook",
+    WEATHER_API_KEY: "99b992e54f87d42bdc41039e5839b087",
+    
+};
